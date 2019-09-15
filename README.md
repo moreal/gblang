@@ -1,2 +1,3 @@
-# gblang
-Guk Bap Language repository
+# gblang - Guk Bap Language
+
+I'm hungry!! I'll be with guk bap forever!!!!!
